@@ -1,0 +1,10 @@
+{
+  "appId": "pe.miboutique.app",
+  "appName": "Mi Boutique",
+  "webDir": "dist",
+  "android": { "backgroundColor": "#F8F7F8" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 600, "launchAutoHide": false, "backgroundColor": "#BE185D", "showSpinner": false },
+    "StatusBar": { "style": "LIGHT", "backgroundColor": "#F8F7F8", "overlaysWebView": false }
+  }
+}
